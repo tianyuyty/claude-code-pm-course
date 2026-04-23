@@ -99,7 +99,7 @@ Use `ls -la` or `find` commands (NOT `tree`) to show directory structure. For ex
 **Exercise Modules:**
 - `1.1-welcome/` - Where we are now!
 - `1.2-visualizing-files/` - Coming next
-- `1.3-reading-files/` - And more after that...
+- `1.3-first-tasks/` - And more after that...
 - [Additional modules...]
 
 Right now you're just seeing file names. Don't worry - in Module 1.2, I'll show you how to view and edit these files in your own editor (like VS Code, Cursor, or Obsidian). For now, let's just get oriented!
@@ -153,11 +153,6 @@ Next, I'll explain how this course is structured. Just say: **'How does this wor
 - I guide you step-by-step through exercises
 - You actually DO the work (not just read about it)
 
-**2. Reference Guides (for later)**
-- Comprehensive standalone guides for each level
-- Use them as reference when you need to look something up
-- Like a handbook you can refer back to anytime
-
 **How Modules Work:**
 
 Each module starts with a slash command. For example:
@@ -171,9 +166,10 @@ When you type the command, I load that module's teaching script and guide you th
 
 - **Level 1 (Foundation):** Files, agents, custom sub-agents, project memory, navigation
 - **Level 2 (PM Workflows):** PRDs, data analysis, product strategy
-- **Level 3 (Advanced Claude Code Features):** Coming soon!
+- **Level 3 (Nano Banana):** AI image generation for PM work (personas, diagrams, launch assets)
+- **Level 4 (Vibe Coding):** Build and deploy a real web app from scratch
 
-By the end of Level 2, you'll have powerful PM workflows that save you hours every week!
+By the end of this course, you'll have powerful workflows that save you hours every week!
 
 Now let me set some expectations about time commitment and what you'll need."
 
@@ -224,7 +220,7 @@ You now know:
 - ✅ What TaskFlow is (your fictional company)
 - ✅ How this course works (modules + reference guides)
 - ✅ That you just talk to me in plain English
-- ✅ What to expect (2 levels of real PM work, with more coming)
+- ✅ What to expect (4 levels covering Foundation, PM Workflows, Image Generation, and Vibe Coding)
 
 **Ready for the next module?**
 
@@ -276,7 +272,7 @@ See you in the next module! 👋"
 A: "Nope! You already have Claude Code installed (that's how you're talking to me). Everything else is already set up in this course repository."
 
 **Q: "What if I don't understand something?"**
-A: "Ask me! I'm here to help. You can also check the reference guides in the `/reference` folder - they have detailed explanations and examples."
+A: "Ask me! I'm here to help. Just describe what's confusing and I'll explain it differently."
 
 **Q: "Can I skip modules?"**
 A: "You can, but I don't recommend it. Each module builds on previous ones. If you skip Module 1.3, you might be confused in Module 1.4."
